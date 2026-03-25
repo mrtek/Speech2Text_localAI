@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Модели и аудио (очень тяжелые)
+models/
+input/
+output/
+*.mp3
+*.wav
+*.ogg
+ffmpeg.exe
+ffprobe.exe
+
+# Настройки VS Code
+.vscode/
